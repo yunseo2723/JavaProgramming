@@ -1,6 +1,7 @@
-public class Ex4_3 {
+/*public class Ex4_3 {
 	public static void main(String args[]) {
-		Machine Microwave = new Machine();
+		Machine Microwave;
+		Microwave = new Machine();
 		Microwave.name="전자레인지";
 		Microwave.brand = "LG";
 		Microwave.color = "빨강";
@@ -13,4 +14,4 @@ public class Ex4_3 {
 		Microwave.start();
 		Microwave.stop();
 	}
-}
+}*/

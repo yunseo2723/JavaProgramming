@@ -3,6 +3,7 @@ public class Machine {
 	String brand;
 	String color;
 	int cost;
+
 	public Machine(String a, String b, String c, int d) {
 		name=a;
 		brand=b;
